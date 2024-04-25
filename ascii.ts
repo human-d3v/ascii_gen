@@ -38,8 +38,8 @@ export const logo:string =
 ████${chalk.cyanBright('▒')}${chalk.cyan('╠╠')}${chalk.blueBright('▓')}${chalk.blue('▓')}█████${chalk.whiteBright('█████████████████████')}█████${chalk.redBright('▓▓')}${chalk.yellowBright('╬')}${chalk.yellow('╬╣')}████
 ██████${chalk.yellowBright('╣▓')}${chalk.green('▓')}████████${chalk.whiteBright('███████████████')}████████${chalk.magentaBright('▓▓')}${chalk.redBright('▓')}██████
 █████${chalk.redBright('Ñ')}${chalk.red('▒╬')}${chalk.yellowBright('▓▓')}█████████${chalk.whiteBright('███████████')}█████████${chalk.magentaBright('▓')}${chalk.yellowBright('▓')}${chalk.green('╬╬▓')}█████
-████${chalk.yellowBright('▓')}${chalk.redBright('▒▒')}${chalk.red('╬')}${chalk.yellow('▒╠')}███████████${chalk.whiteBright('███████')}██████████${chalk.yellowBright('▓')}${chalk.greenBright('▓')}${chalk.green('╬╬╬╬╬')}█████
-████${chalk.redBright('Ñ▒╬╬╬╬')}${chalk.yellow('╠▓')}██████████${chalk.whiteBright('█████')}█████████${chalk.greenBright('▓╬')}${chalk.green('╬╬╬╬╬╣')}████
+████${chalk.yellowBright('▓')}${chalk.redBright('▒▒')}${chalk.red('╬')}${chalk.yellow('▒╠')}███████████${chalk.whiteBright('███████')}██████████${chalk.yellowBright('▓')}${chalk.greenBright('▓')}${chalk.green('╬╬╬╬╬')}████
+████${chalk.redBright('Ñ▒╬╬╬╬')}${chalk.yellow('╠▓')}██████████${chalk.whiteBright('█████')}██████████${chalk.greenBright('▓╬')}${chalk.green('╬╬╬╬╬╣')}████
 ███${chalk.redBright('▓▒▒')}${chalk.redBright('▒╬╬╬╬')}${chalk.yellow('╠▓')}${chalk.yellowBright('▓')}█████████${chalk.whiteBright('███')}█████████${chalk.greenBright('▓▓')}${chalk.green('╬╬╬╬╬╬╬')}${chalk.yellow('╬▓')}███
 █████████${chalk.yellow('▓▓')}${chalk.magentaBright('▓▓▓▓')}${chalk.magenta('▓▓')}███████████████${chalk.greenBright('▓▓▓')}${chalk.yellow('▓▓▓▓')}██████████
 █████████████${chalk.redBright('╬')}${chalk.yellow('╬╬╬╬╬')}${chalk.redBright('╬╬')}${chalk.magenta('╣╬╬╬╬')}${chalk.blueBright('╬╬')}${chalk.blue('╬╠')}${chalk.cyan('╠╠╠')}${chalk.blueBright('╠╠╣')}█████████████
