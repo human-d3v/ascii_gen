@@ -1,5 +1,6 @@
 # ASCII Art logo 
 Built using Chalk, deployed using the Bun Runtime
+______
 ![ascii logo](/assets/logo.png)
 
 ```bash
