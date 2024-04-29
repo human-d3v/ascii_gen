@@ -1,5 +1,6 @@
 # ASCII Art logo 
 Built using Chalk, deployed using the Bun Runtime
+![ascii logo](/assets/logo.png)
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
